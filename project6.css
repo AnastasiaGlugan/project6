@@ -11,7 +11,7 @@
 .style3 {
     width: 100%;
     height: 150px;
-    background-color: aqua;
+    background-color:aqua;
 }
 
 .style4 {
@@ -22,19 +22,19 @@
 .style5 {
     width: 30%;
     height: 450px;
-    background-color: Gray;
+    background-color:Gray;
     float: left;
 }
 
 .style6 {
     width: 70%;
     height: 450px;
-    background-color: darkcyan;
+    background-color:darkcyan;
     float: left;
 }
 
 .style7 {
     width: 100%;
     height: 50px;
-    background-color: yellow;
+    background-color:yellow;
 }
